@@ -1,7 +1,7 @@
 # NVIDIA-HACKATHON2022
 Codes for Distributed Data Parallelization &amp; Automated Mixed Precision
 
-## *Moral for today: You do not claim the rights for something you haven't done.*
+## *Common sense: You do not claim the rights for something you haven't done, nor something you should have done but didn't do in a sincere manner.*
 
 - Team: **Medical Vision Lab**
 - Mentor: Ryu hyunggon from NVIDIA
