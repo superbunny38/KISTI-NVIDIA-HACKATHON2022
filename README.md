@@ -1,7 +1,7 @@
 # NVIDIA-HACKATHON2022
 Codes for Distributed Data Parallelization &amp; Automated Mixed Precision
 
-*Moral of the story: You do not claim the rights for something you haven't done.*
+## *Moral of the story: You do not claim the rights for something you haven't done.*
 
 - Team: **Medical Vision Lab**
 - Mentor: Ryu hyunggon from NVIDIA
